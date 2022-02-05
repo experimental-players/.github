@@ -1,3 +1,3 @@
-![Banner](https://static.experimentalplayers.org/hub-banner.gif)
+![Banner](https://static.experimentalplayers.org/hub-banner.jpg)
 
 Work in progress
